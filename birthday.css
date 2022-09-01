@@ -1,0 +1,153 @@
+@font-face {
+    font-family: Happy Monkey;
+    src: url(HappyMonkey-Regular.ttf);
+}
+
+body{
+    text-align: center;
+    font-family: Happy Monkey;
+    background: linear-gradient(#1A1A1F,#2E7775);
+    color: #B3B3B4;
+    text-shadow: 0 0 2px black;
+    margin: 0 0 0 0;
+    padding: 5px 20px;
+}
+
+.hero{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#bff-img{
+    width: 40%;
+    border-radius: 50%;
+    border: 5px solid #D9D9DA;
+    margin-bottom: 10px;
+}
+
+#bday-age {
+    background: #D9D9DA;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+#bday-date {
+    background: #D9D9DA;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    margin: -10px;
+}
+
+.gift-section{
+    margin: 50px;
+}
+
+.gift{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 400px;
+    background-image: url(images/blue.jpg);
+    background-size: cover;
+    border: 7px solid #D9D9DA;
+    border-radius: 10px;
+}
+
+.feel{
+    margin-bottom: 10px;
+}
+
+.click{
+    margin-top: 0px;
+}
+
+#gift-1:hover{
+    background-image: url(images/1.webp);
+}
+
+#gift-2:hover{
+    background-image: url(images/smile.webp);
+}
+
+#gift-3:hover{
+    background-image: url(images/party.webp);
+}
+
+#gift-4:hover{
+    background-image: url(images/study.webp);
+    background-size: cover;
+}
+
+#gift-5:hover{
+    background-image: url(images/journey.webp);
+}
+
+#gift-6:hover{
+    background-image: url(images/proud.webp);
+}
+
+#gift-7:hover{
+    background-image: url(images/friend.webp);
+    background-size: 400px 400px;
+}
+
+#gift-8:hover{
+    background-image: url(images/best.webp);
+}
+
+#gift-9:hover{
+    background-image: url(images/windy-study.webp);
+    background-size: 400px 400px;
+} 
+
+#gift-1:hover{
+    background-image: url(images/1.webp);
+}
+
+#gift-2:hover{
+    background-image: url(images/smile.webp);
+}
+
+#gift-3:hover{
+    background-image: url(images/party.webp);
+}
+
+#gift-4:hover{
+    background-image: url(images/study.webp);
+    background-size: cover;
+}
+
+#gift-5:hover{
+    background-image: url(images/journey.webp);
+}
+
+#gift-6:hover{
+    background-image: url(images/proud.webp);
+}
+
+#gift-7:hover{
+    background-image: url(images/friend.webp);
+    background-size: 400px 400px;
+}
+
+#gift-8:hover{
+    background-image: url(images/best.webp);
+}
+
+#gift-9:hover{
+    background-image: url(images/windy-study.webp);
+    background-size: 400px 400px;
+}
+
+#footer{
+    margin: 50px 0 30px 0;
+}
+
+#bye{
+    height: 200px;
+    width: 200px;
+}
